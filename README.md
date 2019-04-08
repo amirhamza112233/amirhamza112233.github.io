@@ -1,6 +1,5 @@
 # amirhamza112233.github.io
 
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Amir Hamza Bio</title>
