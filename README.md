@@ -14,10 +14,10 @@
 		<h3>Mother's Name: Lucky Aktar</h3>
 <table padding="2px" border="2px">
 <tr> <td> Address : Hirajheel,shiddirganj,Nayanganj  </td> </tr>
-<tr> <td> Religion : Islam </td>  <br> </tr>
-</tr> <td> Gender : Male </td> <br>
-</tr> <td> Hobby:Watching Cricket </td> <br>
-</tr> <td> Future plan:Be a CEO in Google </td> <br>
+<tr> <td> Religion : Islam </td> </tr>
+<tr> <td> Gender : Male </td> </tr>
+<tr> <td> Hobby:Watching Cricket </td> </tr>
+<tr> <td> Future plan:Be a CEO in Google </td> </tr>
 </table>
 
 <h4>My Qualification</h4>
