@@ -23,7 +23,7 @@
 <h4>My Qualification</h4>
 <table border ="1">
 <tr>
-<td colspan ="4" align=center>Results</td>
+<td> colspan ="4" align=center>Results</td>
 </tr>
 <tr>
 <th>Exam Name</th><th>Year</th><th>Board</th><th>GPA</th>
