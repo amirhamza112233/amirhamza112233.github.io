@@ -20,25 +20,6 @@
 <tr> <td> Future plan:Be a CEO in Google </td> </tr>
 </table>
 
-<h4>My Qualification</h4>
-<table border ="1">
-
-<tr>
-<th>Exam Name</th><th>Year</th><th>Board</th><th>GPA</th>
-</tr>
-<tr>
-<td>PSC</td><td>2011</td><td>Dhaka</td><td>5.0</td>
-</tr>
-<tr>
-<td>JSC</td><td>2014</td><td>Dhaka</td><td>4.75</td>
-</tr>
-<tr>
-<td>SSC</td><td>2016</td><td>Dhaka</td><td>4.61</td>
-</tr>
-<tr>
-<td>HHC</td><td>2018</td><td>Dhaka</td><td>4.50</td>
-</tr>
-</table>
 <a href="bio2.html">Click here go to the second page</a>
 
 
